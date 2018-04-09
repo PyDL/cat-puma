@@ -7,4 +7,4 @@ CME Arrival Time Prediction Using Machine learning Algorithms
 * __cat_puma_qt.py__: PyQT5 GUI for the CAT-PUMA model
 
 ## Credit
-* Liu et al., A New Tool for CME Arrival Time Prediction Using Machine Learning Algorithms: CAT-PUMA, ApJ, 2018
+* Liu et al., A New Tool for CME Arrival Time Prediction Using Machine Learning Algorithms: CAT-PUMA, ApJ, 2018 (https://arxiv.org/abs/1802.02803)
