@@ -1,3 +1,5 @@
+**Note, from 2019.09, NASA has closed all external access to its FTP servers. Due to this, CAT-PUMA is no longer able to retreive solar wind parameters automatically. Instead, you could manually type in the parameters.**
+
 # CAT-PUMA Model
 CME Arrival Time Prediction Using Machine learning Algorithms
 # Files:
