@@ -51,7 +51,7 @@ def read_omni(time='2015-04-04T16:32:00', duration=6):
     '''
     Get solar wind plasma data for a giving time and time duration
     '''
-    url = 'ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_' + \
+    url = 'https://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_' + \
           time[0:4] + '.dat'
     data = pd.read_csv(url, delimiter="\s+", header=None)
     time = datetime.strptime(time, '%Y-%m-%dT%H:%M:%S')
